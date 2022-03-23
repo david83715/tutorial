@@ -1,3 +1,1 @@
-這是範例文件
-這是第二行
-the third line is here
+print('Hello world!')
